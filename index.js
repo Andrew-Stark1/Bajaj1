@@ -61,7 +61,7 @@ function buyStocks(accountNumber) {
     company: "Bajaj Finance Ltd",
     currentPrice: 6544.2,
     accountNumber,
-    githubRepoLink: "https://github.com/Andrew-Stark1/Bajaj1",
+    githubRepoLink: "https://github.com/Andrew-Stark1/Bajaj1.git",
   };
 
   axios
